@@ -1,4 +1,4 @@
-# PythonLearing
+## Mit 6.0001
 ProblemSet
 
 1)Hangman
@@ -13,4 +13,6 @@ ProblemSet
   
   A cipher is an algorithm for performing encryption (and the reverse, decryption). The original information is called plaintext. After it is encrypted, it is called ciphertext. The ciphertext message contains all the information of the plaintext message, but it is not in a format readable by a human or computer without the proper mechanism to decrypt it; it should resemble random gibberish to those for whom it is not intended.
 
+4) News feed monitor 
+to be done
 Amazing MIT opencourse!
