@@ -14,5 +14,16 @@ ProblemSet
   A cipher is an algorithm for performing encryption (and the reverse, decryption). The original information is called plaintext. After it is encrypted, it is called ciphertext. The ciphertext message contains all the information of the plaintext message, but it is not in a format readable by a human or computer without the proper mechanism to decrypt it; it should resemble random gibberish to those for whom it is not intended.
 
 4) News feed monitor 
+
 to be done
-Amazing MIT opencourse!
+
+
+## Princeton-Algorithms
+Repo for assginments in coursera Algorithms provided by Princeton
+
+Programming Assignment:
+1. [Percolation](https://eetose.github.io/docs/algorithm/percolation/)  100/100
+2. [Permutation](https://eetose.github.io/docs/algorithm/permutation/)  98/100
+3. [Collinear Points](https://eetose.github.io/docs/algorithm/collinear/) 97/100
+4. [8 Puzzle](https://eetose.github.io/docs/algorithm/8puzzle/) 100/100
+5. Kdtree 100/100
